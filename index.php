@@ -1,4 +1,7 @@
 <?php
+echo "derver working";
+?>
+<?php
 session_start();
 
 // If user already logged in → go to chat
